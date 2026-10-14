@@ -8,7 +8,7 @@
 
 打开本仓库的 GitHub Pages：**https://asathor007.github.io/qingshan-ludo-game/**
 
-也可下载 [releases/qsludo-v1.0-20261014.html](releases/qsludo-v1.0-20261014.html)，用浏览器直接打开（支持手机、平板与电脑；本地 `file://` 即可，无需联网）。
+也可下载 [releases/qsludo-v1.01-20261014.html](releases/qsludo-v1.01-20261014.html)，用浏览器直接打开（支持手机、平板与电脑；本地 `file://` 即可，无需联网）。
 
 ## 怎么玩
 
@@ -28,7 +28,7 @@
 
 ## 版本
 
-详见 [CHANGELOG.md](CHANGELOG.md)。当前正式版：**v1.0**（2026-10-14）。
+详见 [CHANGELOG.md](CHANGELOG.md)。当前版本：**v1.01**（2026-10-14）。
 
 ## 制作
 
